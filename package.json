@@ -1,0 +1,22 @@
+{
+  "name": "dapp-class",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "buffer": "^5.0.8",
+    "keccakjs": "^0.2.1",
+    "material-ui": "^1.0.0-beta.30",
+    "material-ui-icons": "^1.0.0-beta.17",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-pure-css-modal": "^1.0.2",
+    "react-scripts": "1.1.0",
+    "web3": "^0.20.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
